@@ -1,1 +1,1 @@
-# ministore
+# minimarket
